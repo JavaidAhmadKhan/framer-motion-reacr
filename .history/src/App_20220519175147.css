@@ -1,0 +1,15 @@
+.App {
+  width: 100%;
+}
+
+
+table,
+th,
+td {
+  border: 2px solid green;
+  padding: 20px;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

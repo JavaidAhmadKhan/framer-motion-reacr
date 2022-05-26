@@ -1,0 +1,13 @@
+table {
+  max-width:fit-content;
+}
+table,
+th,
+td {
+  border: 2px solid green;
+  padding: 30px;
+  margin: 30px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
